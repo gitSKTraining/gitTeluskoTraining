@@ -1,10 +1,13 @@
 This is the first demo file created for git.
+This is the new sub branch
 This is the main branch
 
 Added 1st line.
 Added 2nd line.
 
 Added 3rd line.
+Added 4th line.
+Added 5th line.
 
 More lines coming soon.....
     
